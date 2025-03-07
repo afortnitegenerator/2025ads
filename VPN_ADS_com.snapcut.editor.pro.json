@@ -7,37 +7,29 @@
             "select_main_ads": "APPLOVIN-D",
             "select_backup_ads": "APPLOVIN-D",
             
-            
             "main_ads_banner": "",
             "backup_ads_banner": "",
-            
             
             "main_ads_reward": "",
             "backup_ads_reward": "",
           
-
-            
             "main_ads_intertitial": "",
             "backup_ads_intertitial": "",
-            
             
             "main_ads_native": "",
             "backup_ads_native": "",
             
-            
             "initialize_sdk": "",
             "initialize_sdk_backup_ads": "",
-            
-            
-            
-            
             
             "high_paying_keyword_1": "",
             "high_paying_keyword_2": "",
             "high_paying_keyword_3": "",
             "high_paying_keyword_4": "",
             "high_paying_keyword_5": "",
-            "interstitial_counter": "0"
+            "interstitial_counter": "0",
+
+            "vpn_link": "https://drive.google.com/uc?id=1QChW4oUYxXduXTJo8IBVC_32yFmdT-V1"
         }
     ]
 }
