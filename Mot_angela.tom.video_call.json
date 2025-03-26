@@ -38,7 +38,7 @@
     
     "VpnFiles": [
       {
-        "vpnName": "usa-albuquerque",
+        "vpnName": "usa",
         "vpnFile": "https://raw.githubusercontent.com/afortnitegenerator/Ilakhtak/refs/heads/main/my_expressvpn_usa_-_albuquerque_udp.ovpn"
       },
       {
