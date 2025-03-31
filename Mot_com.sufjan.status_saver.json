@@ -6,8 +6,8 @@
       
       "select_main_ads": "UNITY",
       "select_backup_ads": "UNITY",
-      "main_ads_banner": "2f1bdb1eb06173e8",
-      "backup_ads_banner": "2f1bdb1eb06173e8",
+      "main_ads_banner": "Banner_Android_Bidding",
+      "backup_ads_banner": "Banner_Android_Bidding",
       "main_ads_reward": "",
       "backup_ads_reward": "",
       "main_ads_intertitial": "Interstitial_Android_Bidding",
