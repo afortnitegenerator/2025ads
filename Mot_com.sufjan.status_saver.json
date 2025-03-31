@@ -15,8 +15,8 @@
       "main_ads_native": "",
       
       "backup_ads_native": "",
-      "initialize_sdk": "",
-      "initialize_sdk_backup_ads": "",
+      "initialize_sdk": "5380840",
+      "initialize_sdk_backup_ads": "5380840",
       
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
