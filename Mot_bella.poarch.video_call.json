@@ -1,35 +1,44 @@
 {
-  "ADS": [
-    {
-      "status_app": "",
-      "link_redirect": "",
+  "AppRedirect": {
+    "status"     : false,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.piupiuapps.coloringglitterunicorns"
+  },
+  
+  
+ "AdsController": {
+   
+    "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'unity' ",
+   
+    "BannerNetwork"      : "admob",
+    "InterstitialNetwork": "admob",
+    "NativeNetwork"      : "admob",
+    "RewardNetwork"      : "admob",
+    
+    "AdInterval"         : 1,
+    
+    "AdPlacement": {
+        
+      "AdMobBanner"          : "ca-app-pub-3940256099942544/6300978111",
+      "AdMobInterstitial"    : "ca-app-pub-3940256099942544/1033173712",
+      "AdMobNative"          : "ca-app-pub-3940256099942544/2247696110",
+      "AdMobReward"          : "ca-app-pub-3940256099942544/5224354917",
+     
+      "ApplovinKey"          : "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
+      "ApplovinBanner"       : "da17eff31ae69f15",
+      "ApplovinInterstitial" : "98f6a586ed642919",
+      "ApplovinNative"       : "98f6a586ed642919",
+      "ApplovinReward"       : "98f6a586ed642919",
       
-      "select_main_ads": "ADMOB",
-      "select_backup_ads": "ADMOB",
-      "main_ads_banner": "ca-app-pub-9691576545415217/7465120147",
-      "backup_ads_banner": "ca-app-pub-9691576545415217/7465120147",
-      "main_ads_reward": "",
-      "backup_ads_reward": "",
-      "main_ads_intertitial": "ca-app-pub-9691576545415217/4961232344",
-      "backup_ads_intertitial": "ca-app-pub-9691576545415217/4961232344",
-      "main_ads_native": "",
-      
-      "backup_ads_native": "",
-      "initialize_sdk": "",
-      "initialize_sdk_backup_ads": "",
-      
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "interstitial_counter": "0"
+      "UnityGameID"           : "4076527",
+      "UnityBanner"           : "BannerAd",
+      "UnityInterstitialAd"   : "InterstitialAd",
+      "UnityRewardAd"         : "rewardedVideo"
     }
-  ],
+  },
 
 "VPNSetting": {
       
-    "ConnectionType": "off",
+    "ConnectionType": "random",
     
     "VpnUserName"   : "p4264862",
     "VpnPassword"   : "ajHbNdM5cq",
